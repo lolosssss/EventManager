@@ -1,0 +1,27 @@
+{
+  "name": "me.evanlau.eventmanager",
+  "version": "0.1.0",
+  "description": "A pub-sub event bus based on Rx.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolosssss/EventManager.git"
+  },
+  "keywords": [
+    "Event",
+    "pub-sub"
+  ],
+  "author": "Evan Lau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lolosssss/EventManager/issues"
+  },
+  "homepage": "https://github.com/lolosssss/EventManager#readme",
+  "dependencies": {
+    "rxjs": "^6.1.0",
+    "typescript": "^2.8.3"
+  }
+}
